@@ -79,7 +79,7 @@ Provides a high-level summary of the business.
 - Top Countries
 - Monthly Orders
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](Images/executive_overview.png)
 
 ---
 
@@ -101,7 +101,7 @@ Analyzes customer value and purchasing behavior.
 - Top Customers by Lifetime Value
 - Customer Insights
 
-![Customer Intelligence](images/customer_intelligence.png)
+![Customer Intelligence](Images/customer_intelligence.png)
 
 ---
 
@@ -115,7 +115,7 @@ Provides insights into revenue performance.
 - Top Products by Revenue
 - Revenue Insights
 
-![Revenue Analysis](images/revenue_analysis.png)
+![Revenue Analysis](Images/revenue_analysis.png)
 
 ---
 
@@ -130,7 +130,7 @@ Identifies customer churn risks using RFM segmentation.
 - Top At-Risk Customers
 - Business Insights
 
-![Customer Churn](images/customer_churn_analysis.png)
+![Customer Churn](Images/customer_churn_analysis.png)
 
 ---
 
@@ -145,7 +145,7 @@ Analyzes geographical sales performance.
 - Orders by Country
 - Country Insights
 
-![Country Analysis](images/country_analysis.png)
+![Country Analysis](Images/country_analysis.png)
 
 ---
 
