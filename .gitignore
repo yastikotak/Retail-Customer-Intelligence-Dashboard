@@ -1,0 +1,24 @@
+# Power BI cache
+*.pbit
+*.pbix.autorecover
+
+# Python
+__pycache__/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
